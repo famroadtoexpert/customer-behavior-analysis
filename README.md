@@ -1,2 +1,2 @@
 # Customer Behavior Analysis
-Exploratory Data Analysis (EDA) on customer purchasing behavior to explore spending patterns, purchase frequency, and customer characteristics.
+This dataset analyses customer shopping behavior by examining demographic details, purchazing paterns, and prefernces. It includes information on products bought, purchase frequncy, spending amount, and promotional factors such as discounts and payment methods. The analysis helps understand customer choices and provid insight to support better busines and marketing decision.
