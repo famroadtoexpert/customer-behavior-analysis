@@ -18,7 +18,7 @@ This dataset analyses customer shopping behavior by examining demographic detail
 4. Distribution analysis (numerical features)
 5. Customer behavior exploration
 ## 🔍 Key Insights
-- Customer spending distribution appears to be evenly spread, with no significant gaps between low-value and high-value transactions, and the average spending per customer reaching $59.76. 
+- Customer spending distribution appears to be evenly spread, with no significant gaps between low-value and high-value transactions, and the average spending for each customer reaching $59.76. 
 - In terms of purchase frequency, customer spending patterns are relatively even, spread across specific time intervals ranging from weekly to yearly.
 - Each feature generates a similar average expenditure, indicating that there are no dominant factors related to customer spending.
 - The age distribution of customers ranges from 18 to 70 years old and is relatively even, with a slightly higher number in the 18-30 age group.
